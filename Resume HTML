@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Ajay Medi | DevOps Engineer</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+      color: #333;
+      max-width: 900px;
+      margin: auto;
+      padding: 2rem;
+    }
+    h1, h2 {
+      color: #2c3e50;
+    }
+    a {
+      color: #2980b9;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    section {
+      margin-bottom: 2rem;
+    }
+    ul {
+      padding-left: 20px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Ajay Medi</h1>
+  <p><strong>Email:</strong> <a href="mailto:ajaymedi.am@gmail.com">ajaymedi.am@gmail.com</a><br />
+     <strong>Phone:</strong> +91-9989114217<br />
+     <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/ajay-medi-5671a4255" target="_blank">linkedin.com/in/ajay-medi</a><br />
+     <strong>GitHub:</strong> <a href="https://github.com/AjayMedi1" target="_blank">github.com/AjayMedi1</a>
+  </p>
+
+  <section>
+    <h2>About Me</h2>
+    <p>I’m a passionate and detail-oriented DevOps Engineer with a strong foundation in cloud infrastructure, automation, and software development. I specialize in building and maintaining scalable systems using AWS, Docker, Kubernetes, and CI/CD pipelines to improve development lifecycle efficiency.</p>
+  </section>
+
+  <section>
+    <h2>Technical Skills</h2>
+    <ul>
+      <li>Cloud Platforms: AWS, Azure, GCP</li>
+      <li>CI/CD Tools: Jenkins, GitLab CI, CircleCI, Travis CI</li>
+      <li>Version Control: Git, GitHub, Bitbucket</li>
+      <li>Containerization & Orchestration: Docker, Kubernetes, OpenShift</li>
+      <li>IaC & Automation: Terraform, CloudFormation, Ansible, Puppet</li>
+      <li>Scripting: Python, Bash, Shell, JavaScript</li>
+      <li>Monitoring & Logging: Prometheus, Grafana, ELK Stack</li>
+      <li>Web Technologies: HTML, CSS, JavaScript, Node.js, SQL</li>
+      <li>Security: Web Security, Log Inspection, Incident Response</li>
+      <li>Data Tools: Tableau, Excel</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Certifications</h2>
+    <ul>
+      <li>Essentials of Cloud Computing – Infosys Springboard (June 2025)</li>
+      <li>Deloitte Australia – Technology Job Simulation – Forage</li>
+      <li>Deloitte Australia – Cybersecurity Simulation – Forage</li>
+      <li>Deloitte Australia – Data Analytics Simulation – Forage</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Internships</h2>
+    <h3>TS NPDCL – UPS System Intern</h3>
+    <p>Worked on electrical systems and automation components in real-world environments.</p>
+
+    <h3>NxtWave – DevOps Enthusiast Intern</h3>
+    <ul>
+      <li>Built CI/CD pipelines using Jenkins & GitHub</li>
+      <li>Worked with AWS services (EC2, S3, RDS, Lambda)</li>
+      <li>Set up monitoring using Prometheus, Grafana, and ELK Stack</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Projects</h2>
+    <h3>Mobile Charging System using RFID (July 2023 – Nov 2023)</h3>
+    <ul>
+      <li>Built a solar-powered, coin-based charging station with RFID authentication</li>
+      <li>Used Arduino Nano for hardware control</li>
+      <li>Programmed logic using JavaScript</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Virtual Simulations</h2>
+    <ul>
+      <li>Deloitte Technology Simulation: Developed dashboard mockups and Python scripts</li>
+      <li>Cybersecurity Simulation: Handled log inspection and incident response</li>
+      <li>Data Analytics Simulation: Built Tableau dashboards and performed spreadsheet analysis</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Education</h2>
+    <ul>
+      <li>B.Tech – Electrical and Electronics Engineering, ABR College of Engineering, AP | 2024 | CGPA: 7.0</li>
+      <li>Diploma – Electrical and Electronics Engineering, Arkay College of Engineering | 2021 | CGPA: 6.8</li>
+      <li>SSC – Sri Vidyaranya Aavasa Vidyalayam | 2016 | CGPA: 9.0</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Portfolio Links</h2>
+    <ul>
+      <li><a href="https://github.com/AjayMedi1" target="_blank">GitHub Projects</a></li>
+      <li>Tableau Dashboards: (if available)</li>
+      <li>CI/CD Pipeline Demos: (link to repos or videos)</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Let’s Connect!</h2>
+    <p>I’m open to opportunities in DevOps, Cloud Engineering, or SRE roles. Let’s connect and explore how I can contribute to your team.</p>
+  </section>
+</body>
+</html>
